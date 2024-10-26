@@ -35,3 +35,8 @@ Cette application web utilise **Spring Boot** et **Thymeleaf** pour offrir des f
 - Clonez ce projet sur votre ordinateur.
 - Accédez au répertoire du projet .
 - Exécutez l'application : mvn spring-boot:run (ou utilisez votre IDE pour démarrer l'application).
+
+## Video
+
+https://github.com/user-attachments/assets/cc667372-ec1b-421c-9883-9e81b7c1b4e4
+
